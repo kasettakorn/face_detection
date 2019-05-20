@@ -1,0 +1,7 @@
+.navbar {
+    background-color: #fff481;
+    color: black;
+}
+.navbar-default .navbar-nav > .active > a {
+    color: black;
+}
